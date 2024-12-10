@@ -80,7 +80,7 @@
 
 ## Team Contributions
 This project was developed collaboratively by a team of software engineering students:
-- [@Negbi](https://github.com/Negbi) - Daniel Negbi (Myself)
+- [@Shimon Ben-Ami](https://github.com/Zazi341)-Myself
+- [@Negbi](https://github.com/Negbi)
 - [@RoyKodman](https://github.com/RoyKodman)
-- [@Shimon Ben-Ami](https://github.com/Zazi341)
 - Amitay Ziv
